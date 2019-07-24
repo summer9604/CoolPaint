@@ -3,7 +3,7 @@ Academia de Código Project
 
 Instructions: 
 
--> Use keyboard's arrows to move;
+-> Use keyboard's arrows to move;\n
 -> Press 1 to pick blue color;
 -> Press 2 to pick red color;
 -> Press 3 to pick green color;
